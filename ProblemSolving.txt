@@ -1,0 +1,7 @@
+1. 
+TotAm, DolBil, HalDol, Quar, Dime, Nick, Penn
+2. 
+TotAm
+3. 
+DolBil = TotAm / 1
+HalDol = 
